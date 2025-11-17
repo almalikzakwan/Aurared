@@ -52,7 +52,13 @@
 		"menu.background": "#0D1117",
 		"menu.foreground": "#E6EDF3",
 		"menu.selectionBackground": "#264F78",
-		"menu.selectionForeground": "#FFFFFF"
+		"menu.selectionForeground": "#FFFFFF",
+
+		//title colors
+		"titleBar.activeBackground": "#000000",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#2D2D2D",
+        "titleBar.inactiveForeground": "#CCCCCC"
 
 	},
 	"tokenColors": [
