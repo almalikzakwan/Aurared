@@ -22,7 +22,7 @@ vsce package
 code --install-extension .\amz-{version}.vsix
 ```  
 
-or you can download file .vsix from releases
+or you can download and install extension file (.vsix) from releases
 ```powershell
 code --install-extension .\amz-{version}.vsix
 ```
