@@ -1,8 +1,10 @@
 {
   "name": "amz",
   "displayName": "Aurared",
+  "publisher": "amzhnpi",
   "description": "theme just for fun. feel free to use :)",
   "version": "0.1.4",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.106.1"
   },
