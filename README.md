@@ -20,6 +20,11 @@ cd Aurared
 npm install
 vsce package
 code --install-extension .\amz-{version}.vsix
+```  
+
+or you can download file .vsix from releases
+```powershell
+code --install-extension .\amz-{version}.vsix
 ```
 
 ## LICENSE
