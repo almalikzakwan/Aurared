@@ -18,7 +18,7 @@ configure Theme
 git clone https://<username>:<token>@github.com/almalikzakwan/Aurared.git
 cd Aurared
 npm install
-vsce packages
+vsce package
 code --install-extension .\amz-{version}.vsix
 ```
 
