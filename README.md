@@ -1,6 +1,6 @@
 # Aurared VSCode Theme
 
-My beautiful custom theme . Feel free to use :)  
+My dumb, messy and loser, buuuuuuuuuuuuu custom theme . Feel free to use :)  
 This theme can be use without publish using guide below.
 
 ## Tools  
