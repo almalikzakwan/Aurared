@@ -2,8 +2,8 @@
   "name": "amz",
   "displayName": "Aurared",
   "publisher": "amzhnpi",
-  "description": "My dumb theme just for fun. feel free to use :)",
-  "version": "0.1.5",
+  "description": "Beautiful red theme for VS Code.",
+  "version": "0.2.5",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.106.1"
