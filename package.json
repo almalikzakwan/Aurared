@@ -3,7 +3,7 @@
   "displayName": "Aurared",
   "publisher": "amzhnpi",
   "description": "Beautiful red theme for VS Code.",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.106.1"
