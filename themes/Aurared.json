@@ -37,7 +37,7 @@
 		"peekView.border": "#0077ff",
 
 		"scrollbarSlider.background": "#00928687",
-		"scrollbarSlider.hoverBackground": "#00ffea87",
+		"scrollbarSlider.hoverBackground": "#EF9A9A",
 		"scrollbarSlider.activeBackground": "#ff00004d",
 
 		"notificationCenterHeader.background": "#0E121A",
