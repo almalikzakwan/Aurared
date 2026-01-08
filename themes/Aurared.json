@@ -51,7 +51,7 @@
 
 		"titleBar.activeBackground": "#B62324",
         "titleBar.activeForeground": "#FFFFFF",
-        "titleBar.inactiveBackground": "#2D2D2D",
+        "titleBar.inactiveBackground": "#000000",
         "titleBar.inactiveForeground": "#CCCCCC"
 
 	},
