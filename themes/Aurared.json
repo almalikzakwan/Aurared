@@ -1,7 +1,7 @@
 {
 	"name": "Aurared",
 	"colors": {
-		"editor.background": "#000b03",
+		"editor.background": "#020d06",
 		"editor.foreground": "#E6EDF3",
 		"editor.lineHighlightBackground": "#161B22",
 		"editor.selectionBackground": "#264F78",
@@ -9,7 +9,7 @@
 		"editorCursor.foreground": "#58A6FF",
 		"editorWhitespace.foreground": "#3B3F4B",
 
-		"sideBar.background": "#060004",
+		"sideBar.background": "#020d06",
 		"sideBar.foreground": "#C9D1D9",
 		"sideBarSectionHeader.background": "#181717",
 		"sideBarTitle.foreground": "#E6EDF3",
@@ -24,8 +24,8 @@
 
 		"panel.background": "#000000",
 		"panel.border": "#B62324",
-		"terminal.background": "#000000",
-		"terminal.foreground": "#E6EDF3",
+		"terminal.background": "#020d06",
+		"terminal.foreground": "#a552f7",
 		"terminalCursor.foreground": "#58A6FF",
 
 		"editorHoverWidget.background": "#00110b",
@@ -44,10 +44,10 @@
 		"notifications.background": "#161B22",
 		"notifications.foreground": "#E6EDF3",
 
-		"menu.background": "#0D1117",
+		"menu.background": "#140011",
 		"menu.foreground": "#E6EDF3",
 		"menu.selectionBackground": "#264F78",
-		"menu.selectionForeground": "#FFFFFF",
+		"menu.selectionForeground": "#ff00d9",
 
 		"titleBar.activeBackground": "#B62324",
         "titleBar.activeForeground": "#FFFFFF",
