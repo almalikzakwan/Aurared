@@ -2,3 +2,4 @@
 .amz
 *.py
 package-lock.json
+.vscodeignore
