@@ -2,8 +2,8 @@
   "name": "amz",
   "displayName": "Aurared",
   "publisher": "amzhnpi",
-  "description": "Beautiful red theme for VS Code.",
-  "version": "0.2.9",
+  "description": "Red Dark, relentless theme forged in crimson dominance, projecting an untouchable aura of power, control, and silent intimidation.",
+  "version": "0.3.1",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.106.1"

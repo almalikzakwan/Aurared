@@ -1,7 +1,6 @@
 # Aurared VSCode Theme
 
-Feel free to use 😽 .
-This theme can be use without publish using guide below.
+Red Dark, relentless theme forged in crimson dominance, projecting an untouchable aura of power, control, and silent intimidation. 🐉🐦‍🔥
 
 ## Tools  
 - nodejs
