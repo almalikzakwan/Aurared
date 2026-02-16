@@ -13,11 +13,11 @@
 		"sideBar.foreground": "#C9D1D9",
 		"sideBarSectionHeader.background": "#181717",
 		"sideBarTitle.foreground": "#E6EDF3",
-		"sideBar.border": "#B62324",
+		"sideBar.border": "#790b0b",
 		
 		"editorGroup.border": "#cc00ff",
 
-		"statusBar.background": "#B62324",
+		"statusBar.background": "#680000",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#473b3b",
 		"statusBar.debuggingBackground": "#4e1d8b",
@@ -44,12 +44,12 @@
 		"notifications.background": "#161B22",
 		"notifications.foreground": "#E6EDF3",
 
-		"menu.background": "#140011",
+		"menu.background": "#22486d",
 		"menu.foreground": "#E6EDF3",
-		"menu.selectionBackground": "#264F78",
+		"menu.selectionBackground": "#000000",
 		"menu.selectionForeground": "#ff00d9",
 
-		"titleBar.activeBackground": "#B62324",
+		"titleBar.activeBackground": "#680000",
         "titleBar.activeForeground": "#FFFFFF",
         "titleBar.inactiveBackground": "#000000",
         "titleBar.inactiveForeground": "#CCCCCC"
