@@ -1,3 +1,4 @@
 *.vsix
 .amz
 *.py
+package-lock.json
