@@ -1,6 +1,6 @@
 # Aurared VSCode Theme
 
-Red Dark, relentless theme forged in crimson dominance, projecting an untouchable aura of power, control, and silent intimidation. 🐉🐦‍🔥
+Red Dark, relentless theme forged in crimson dominance, projecting an untouchable aura of power, control, and silent intimidation. 🐉♨️
 
 ## Tools  
 - nodejs
