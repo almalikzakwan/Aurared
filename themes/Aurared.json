@@ -20,7 +20,7 @@
 		"statusBar.background": "#680000",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#473b3b",
-		"statusBar.debuggingBackground": "#4e1d8b",
+		"statusBar.debuggingBackground": "#02a3bf",
 
 		"panel.background": "#000000",
 		"panel.border": "#B62324",
@@ -44,9 +44,9 @@
 		"notifications.background": "#161B22",
 		"notifications.foreground": "#E6EDF3",
 
-		"menu.background": "#22486d",
-		"menu.foreground": "#E6EDF3",
-		"menu.selectionBackground": "#000000",
+		"menu.background": "#02a3bf",
+		"menu.foreground": "#ffffff",
+		"menu.selectionBackground": "#E6EDF3",
 		"menu.selectionForeground": "#ff00d9",
 
 		"titleBar.activeBackground": "#680000",
