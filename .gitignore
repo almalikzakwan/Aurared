@@ -1,5 +1,5 @@
 *.vsix
-.amz
+storage/
 *.py
 package-lock.json
 .vscodeignore
