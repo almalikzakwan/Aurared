@@ -25,7 +25,7 @@
 		"panel.background": "#000000",
 		"panel.border": "#B62324",
 		"terminal.background": "#020d06",
-		"terminal.foreground": "#a552f7",
+		"terminal.foreground": "#00fff7",
 		"terminalCursor.foreground": "#58A6FF",
 
 		"editorHoverWidget.background": "#00110b",
