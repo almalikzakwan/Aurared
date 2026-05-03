@@ -1,7 +1,7 @@
 {
 	"name": "Aurared",
 	"colors": {
-		"editor.background": "#020d06",
+		"editor.background": "#08080a",
 		"editor.foreground": "#E6EDF3",
 		"editor.lineHighlightBackground": "#161B22",
 		"editor.selectionBackground": "#264F78",
@@ -23,8 +23,8 @@
 		"statusBar.debuggingBackground": "#0a0096",
 
 		"panel.background": "#000000",
-		"panel.border": "#B62324",
-		"terminal.background": "#020d06",
+		"panel.border": "#ffffff",
+		"terminal.background": "#0b0c0e",
 		"terminal.foreground": "#00fff7",
 		"terminalCursor.foreground": "#58A6FF",
 
