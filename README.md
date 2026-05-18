@@ -25,6 +25,8 @@ or you can download and install extension file (.vsix) from releases
 code --install-extension .\amz-{version}.vsix
 ```
 
+This theme also available at *Visual Studio Code Extension Marketplace*. 
+
 ## LICENSE
 This project using non-commercial software license. 
 
