@@ -3,9 +3,9 @@
 Red Dark, relentless theme forged in crimson dominance, projecting an untouchable aura of power, control, and silent intimidation. 🐉♨️
 
 ## Sample Screenshot
-<img alt="sample-1" src="images/sample-1.png" width="1360" height="768">
+<img alt="sample-1" src="images/sample-1.png" width="800" height="600">
 <hr>  
-<img alt="sample-2" src="images/sample-2.png" width="1360" height="768">
+<img alt="sample-2" src="images/sample-2.png" width="800" height="600">
 
 ## Tools  
 - nodejs
