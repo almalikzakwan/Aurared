@@ -11,8 +11,8 @@
 
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#000000",
-		"activityBarTop.foreground": "#680000",
-		"activityBarTop.inactiveForeground": "#20cecb",
+		"activityBarTop.foreground": "#20cecb",
+		"activityBarTop.inactiveForeground": "#680000",
 		"activityBarTop.activeBorder": "#00000000",
 		"activityBarTop.background": "#000000",
 
