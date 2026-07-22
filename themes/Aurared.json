@@ -11,8 +11,8 @@
 
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#000000",
-		"activityBarTop.foreground": "#20cecb",
-		"activityBarTop.inactiveForeground": "#680000",
+		"activityBarTop.foreground": "#ff0000",
+		"activityBarTop.inactiveForeground": "#ffffff5d",
 		"activityBarTop.activeBorder": "#00000000",
 		"activityBarTop.background": "#000000",
 
@@ -59,7 +59,7 @@
 		"notifications.background": "#161B22",
 		"notifications.foreground": "#E6EDF3",
 
-		"menu.background": "#ac0000ef",
+		"menu.background": "#680000",
 		"menu.foreground": "#ffffff",
 		"menu.selectionBackground": "#E6EDF3",
 		"menu.selectionForeground": "#ff00d9",
