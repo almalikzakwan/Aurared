@@ -71,7 +71,9 @@
 		"titleBar.activeBackground": "#7D1128",
         "titleBar.activeForeground": "#FFFFFF",
         "titleBar.inactiveBackground": "#000000",
-        "titleBar.inactiveForeground": "#CCCCCC"
+        "titleBar.inactiveForeground": "#CCCCCC",
+
+		"activityBarBadge.background": "#ffffff"
 	},
 	"tokenColors": [
 		{
