@@ -26,7 +26,7 @@ code --install-extension .\amz-{version}.vsix
 ```  
 
 or you can download and install extension file (.vsix) from releases
-```powershell
+```powershell 
 code --install-extension .\amz-{version}.vsix
 ```
 

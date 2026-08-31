@@ -15,7 +15,7 @@
   "categories": [
     "Themes"
   ],
-  "contributes": {
+"contributes": { 
     "themes": [
       {
         "label": "Aurared",

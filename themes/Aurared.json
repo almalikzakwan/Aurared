@@ -4,11 +4,16 @@
 		"editor.background": "#000000",
 		"editor.foreground": "#E6EDF3",
 		"editor.lineHighlightBackground": "#161B22",
-		"editor.selectionBackground": "#264F78",
-		"editor.inactiveSelectionBackground": "#1F406880",
+		"editor.lineHighlightBorder": "#33383f",
+		"editor.selectionBackground": "#7D1128",
+		"editor.inactiveSelectionBackground": "#77253756",
 		"editorCursor.foreground": "#58A6FF",
-		"editorWhitespace.foreground": "#96dbe0",
-
+		"editor.findMatchBackground": "#009e47",
+		"editor.findMatchForeground": "#ff0000",
+		"editor.findMatchHighlightBackground": "#949c99",
+		"editorWhitespace.foreground": "#185a5c",
+		"editorIndentGuide.background": "#7D1128",
+		
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#000000",
 		"activityBar.activeBackground": "#66313100",
@@ -73,7 +78,8 @@
         "titleBar.inactiveBackground": "#000000",
         "titleBar.inactiveForeground": "#CCCCCC",
 
-		"activityBarBadge.background": "#ffffff"
+		"activityBarBadge.background": "#7D1128"
+
 	},
 	"tokenColors": [
 		{
