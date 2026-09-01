@@ -20,15 +20,16 @@
 		"activityBarTop.foreground": "#00a2ff",
 		"activityBarTop.inactiveForeground": "#9eb088",
 		"activityBarTop.activeBorder": "#000000",
-		"activityBarTop.background": "#000000", 
-
+		"activityBarTop.background": "#000000",
 		"sideBarSectionHeader.border": "#7D1128",
 		"sideBarActivityBarTop.border": "#7D1128",
 		"sideBar.background": "#000000",
-		"sideBar.foreground": "#fdfdfd",
+		"sideBar.foreground": "#ffffff",
+		"sideBar.dropBackground": "#bb0000",
 		"sideBarSectionHeader.background": "#000000",
-		"sideBarTitle.foreground": "#E6EDF3",
+		"sideBarTitle.foreground": "#FFFFFF",
 		"sideBar.border": "#790b0b",
+		"sidebarTitleBar.background": "#ff0000",
 		
 		"editorGroup.border": "#cc00ff",
 		"editorLineNumber.foreground": "#9eb088",
@@ -90,7 +91,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#7c7c7c54"
 			}
 		},
 		{
